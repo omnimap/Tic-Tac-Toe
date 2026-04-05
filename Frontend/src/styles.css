@@ -313,6 +313,7 @@ h1 {
   cursor: pointer;
   color: var(--text-primary);
   transition: all 0.3s;
+  margin-bottom: 12px;
 }
 
 .game-dialog {
